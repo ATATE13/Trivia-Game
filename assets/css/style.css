@@ -1,5 +1,5 @@
 body {
-    background-color: lightblue;
+    background: url("../images/gradient-dots-background_1164-929.jpg") ;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-size: cover;
 }
@@ -16,6 +16,7 @@ header {
     padding: 20px;
     margin-top: 100px;
 }
+
 .btn-primary:hover, .reset:hover{
     background-color: purple;
 }
@@ -40,12 +41,6 @@ h2, #message, #finalMessage{
 
 #gif{
     margin: 30px;
-}
-
-footer {
-    text-align: center;
-    margin: 40px;
-    padding:20px;
 }
 
 @media (min-width: 980px) {
